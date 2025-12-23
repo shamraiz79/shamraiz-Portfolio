@@ -65,7 +65,7 @@ const Projects = () => {
   ];
 
   const stats = [
-    { number: "3+", label: "Projects Completed" },
+    { number: "8+", label: "Projects Completed" },
     { number: "100%", label: "Client Satisfaction" },
     { number: "6+", label: "Technologies Used" },
     { number: "2025", label: "Started Journey" }

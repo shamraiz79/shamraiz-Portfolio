@@ -16,7 +16,7 @@ const About = () => {
   const education = [
     {
       degree: "BS Computer Science",
-      year: "2025",
+      year: " 2021-2025",
       icon: <GraduationCap className="w-5 h-5" />,
       status: "current"
     },
@@ -99,6 +99,7 @@ const About = () => {
                           <span className="text-sm text-muted-foreground">🎓 {edu.year}</span>
                           {edu.status === 'current' && (
                             <Badge className="bg-primary/10 text-primary text-xs">Current</Badge>
+                            
                           )}
                         </div>
                       </div>
