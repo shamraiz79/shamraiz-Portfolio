@@ -64,7 +64,7 @@ const Navigation = () => {
               onClick={() => scrollToSection('home')}
               className="text-xl font-bold font-poppins text-secondary hover:text-primary transition-colors"
             >
-              Shamraiz.dev
+              Shamraiz
             </button>
           </div>
 

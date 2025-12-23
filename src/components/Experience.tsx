@@ -42,7 +42,7 @@ const Experience = () => {
                     </h3>
                     <div className="flex items-center gap-2 text-primary font-semibold mb-2">
                       <Briefcase className="w-5 h-5" />
-                      <span>Dev Clean Software Company</span>
+                      <span>DevClan Software Company</span>
                     </div>
                     <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 text-muted-foreground">
                       <div className="flex items-center gap-2">
@@ -51,7 +51,7 @@ const Experience = () => {
                       </div>
                       <div className="flex items-center gap-2">
                         <MapPin className="w-4 h-4" />
-                        <span>Remote</span>
+                        <span>OnSite</span>
                       </div>
                     </div>
                   </div>

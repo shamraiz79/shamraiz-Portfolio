@@ -101,11 +101,7 @@ const Footer = () => {
             <div className="text-gray-300 text-sm">
               © {currentYear} Shamraiz Imtiaz. All rights reserved.
             </div>
-            <div className="flex items-center gap-1 text-sm text-gray-300">
-              <span>Built with</span>
-              <Heart className="w-4 h-4 text-red-500 fill-current" />
-              <span>using React.js & Tailwind CSS</span>
-            </div>
+           
           </div>
         </div>
       </div>
